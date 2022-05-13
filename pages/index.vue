@@ -21,7 +21,7 @@
         />
       </div>
       <base-button name="メニュー一覧" link="/menu" />
-      <base-heading>MdN Cafeのお知らせ</base-heading>
+      <base-heading>MdN Cafeのタイトル変更</base-heading>
       <div class="mb-20">
         <layout-information-list
           v-for="(item, index) in infoItems"
